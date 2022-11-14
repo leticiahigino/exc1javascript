@@ -1,2 +1,2 @@
 # exc1javascript
-atividade sobre média
+Alunos: Leticia higino camargo, Leticia Correia Barreto Silva, Karen Vieira de albuquerque
